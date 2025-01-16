@@ -9,6 +9,8 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@clerk/clerk-js": "^5.9.0",
+    "@clerk/nextjs": "^5.2.4",
     "@babel/standalone": "^7.26.6",
     "@tabler/icons-react": "^3.28.1",
     "class-variance-authority": "^0.7.1",
